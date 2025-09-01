@@ -1,1 +1,1 @@
-# recipe-sharing-app!
+# recipe-sharing-app
